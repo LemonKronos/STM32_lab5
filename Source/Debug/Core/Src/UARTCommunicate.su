@@ -1,0 +1,2 @@
+UARTCommunicate.c:13:6:UART_communication	8	static
+UARTCommunicate.c:69:6:formatADCValue	16	static
